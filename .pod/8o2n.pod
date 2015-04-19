@@ -6,9 +6,7 @@ See http://github.com/ingydotnet/swim-pm#readme
 
 =encoding utf8
 
-=head1 Name
-
-Unicode Issues - Unicode issues in Perl5's YAML implementations.
+=head1 Unicode Issues in Perl5's YAML Implementations
 
 This document aims to define how YAML, Perl5 and Unicode play together. Perl5
 has 4 primary YAML implementations (C<YAML.pm>, C<YAML::XS>, C<YAML::Syck>,

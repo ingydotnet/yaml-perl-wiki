@@ -1,7 +1,4 @@
-Unicode Issues
-==============
-
-Unicode issues in Perl5's YAML implementations.
+= Unicode Issues in Perl5's YAML Implementations
 
 This document aims to define how YAML, Perl5 and Unicode play together. Perl5
 has 4 primary YAML implementations (`YAML.pm`, `YAML::XS`, `YAML::Syck`,

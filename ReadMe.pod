@@ -6,6 +6,8 @@ See http://github.com/ingydotnet/swim-pm#readme
 
 =encoding utf8
 
+=head1 YAML + Perl Wiki
 
+This Wiki
 
 =cut
